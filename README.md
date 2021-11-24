@@ -5,7 +5,7 @@ I can't find any code about linelikeness feature, so I write one based on the or
   
 I try to use matrix instead of calculate each pixel, which can increase speed from 15000s to 12s (1920*1080 pic)
   
-If anything wrong, Please tell me! Thanks!
+Anything wrong, Please tell me! Thanks!
   
 
   
